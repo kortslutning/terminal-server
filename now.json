@@ -1,0 +1,5 @@
+{
+  "env": {
+    "SIMPLECAST_KEY": "@simplecast-token"
+  }
+}
